@@ -3,6 +3,14 @@
     Project Subject: SPY (SPDR S&P500 ETF Trust), acquired via Kaggle and the Nasdaq website.
     Project Keywords: Data Science, Machine Learning, Quantitative Finance, Input/Dimensionality Reduction Principles.
 
+#### Workflow and Tools in Bullet Points:
+    Polars - Data Manipulation
+    NumPy - Numerical Handling
+    Matplotlib - Data Visualization
+    Scikit-Learn - Machine Learning Framework
+    PyTorch/TensorFlow - Deep Learning Framework
+    Flask - Web Framework
+    
 #### Projected Outcome
 - Design and implement a hybrid machine learning system to forecast daily and weekly returns of the S&P 500 ETF (SPY) using correlation analysis, supervised/unsupervised learning, and reinforcement learning concepts.
 - Engineer time-series features (lagged returns, technical indicators, day-of-week, price/volume patterns) and apply walk-forward cross-validation with rigorous backtesting.
