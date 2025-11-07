@@ -10,6 +10,10 @@
     Scikit-Learn - Machine Learning Framework
     PyTorch/TensorFlow - Deep Learning Framework
     Flask - Web Framework
+
+#### Data Selection
+    Training Data: 29Jan1993 ("START") - 29Aug2025 (2025 Q3E)
+    Testing Data: 01Sep2025 (2025 Q4S) - 31Dec2025 (2025 Q4E)
     
 #### Projected Outcome
 - Design and implement a hybrid machine learning system to forecast daily and weekly returns of the S&P 500 ETF (SPY) using correlation analysis, supervised/unsupervised learning, and reinforcement learning concepts.
